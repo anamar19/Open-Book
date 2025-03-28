@@ -2,7 +2,7 @@
 Bill of Materials (BOM)
 | Ref | Componentă | Link | Datasheet |
 |-----|-----------|------|-----------|
-| J2 | W25Q512JV | [Mouser]([https://www.mouser.com/](https://ro.mouser.com/ProductDetail/GCT/USB4110-GF-A?qs=KUoIvG%2F9IlYiZvIXQjyJeA%3D%3D)) | [Datasheet]([https://www.winbond.com/resource-files/w25q512jv_dtr.pdf](https://ro.mouser.com/datasheet/2/837/GCT_USB4110_Product_Drawing___20k_cycles-3455479.pdf)) |
+| J2 | W25Q512JV | [Mouser]([https://www.mouser.com/](https://ro.mouser.com/ProductDetail/GCT/USB4110-GF-A?qs=KUoIvG%2F9IlYiZvIXQjyJeA%3D%3D) | [Datasheet]([https://www.winbond.com/resource-files/w25q512jv_dtr.pdf](https://ro.mouser.com/datasheet/2/837/GCT_USB4110_Product_Drawing___20k_cycles-3455479.pdf) |
 | U2 | ESP32-C6-WROOM | [Mouser](https://www.mouser.com/) / [Comet](https://www.comet.ro/) | [Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf) |
 | U3 | DS3231SN | [Mouser](https://www.mouser.com/) / [Comet](https://www.comet.ro/) | [Datasheet](https://datasheets.maximintegrated.com/en/ds/DS3231.pdf) |
 | U4 | MAX17048 | [Mouser](https://www.mouser.com/) / [Comet](https://www.comet.ro/) | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX17048-MAX17049.pdf) |
