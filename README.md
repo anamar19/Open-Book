@@ -34,4 +34,6 @@
 | U1 | W25Q512JVEIQ | [LINK](https://ro.mouser.com/ProductDetail/Winbond/W25Q512JVEIQ?qs=l7cgNqFNU1jw6svr3at6tA%3D%3D) | [DATASHEET](https://ro.mouser.com/datasheet/2/949/Winbond_W25Q512JV_Datasheet-3240039.pdf) |
 
 
-# Funcționalități Hardware #
+# 3. Funcționalități Hardware #
+
+## 3.1. Componente, module și senzori ##
