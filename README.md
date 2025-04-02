@@ -45,7 +45,7 @@
 ### LDO Voltage Regulator ###
 - stabilizează tensiunea de 3.3V
 ### SD Card ###
--permite stocarea locală a fișierelor de configurare și a datelor.
+- permite stocarea locală a fișierelor de configurare și a datelor.
 ### E-Paper Drive Circuit & Header ###
 - generează semnale pentru controlul ecranului E-Paper și permite selectarea tipului de dispaly.
 ### Li-Po Battery Charging Controller ###
@@ -62,4 +62,7 @@
 - memorie secundară pentru stocarea datelor.
 
 ## 3.2 Interfețe ##
-- ** SPI ** este folosit pentru NOR Flash, cardul SD și dispaly-ul E-Paper
+- SPI este folosit pentru NOR Flash, cardul SD și dispaly-ul E-Paper
+- I2C este utilizat pentru senzorul BME688 și modulul DS3231SN
+- UART este folosit pentru debugging
+- Wi-Fi & Bluetooth LE sunt date de ESP32-C6 pentru conectivitate wireless.
