@@ -32,3 +32,6 @@
 | D8 | PGB1010603MR | [LINK](https://ro.mouser.com/ProductDetail/Littelfuse/PGB1010603MR?qs=gu7KAQ731URLg4GSnNNN7Q%3D%3D) | [DATASHEET](https://www.littelfuse.com/assetdocs/pulseguard-esd-suppressors-pgb1-datasheet?assetguid=8a337998-d54d-466b-be4e-dc5bcd1f9321) |
 | J3 | 4208| [LINK](https://ro.mouser.com/ProductDetail/Adafruit/4208?qs=PzGy0jfpSMtbScLbr0L5dw%3D%3D) | [DATASHEET](https://www.analog.com/media/en/technical-documentation/data-sheets/ada4570.pdf) |
 | U1 | W25Q512JVEIQ | [LINK](https://ro.mouser.com/ProductDetail/Winbond/W25Q512JVEIQ?qs=l7cgNqFNU1jw6svr3at6tA%3D%3D) | [DATASHEET](https://ro.mouser.com/datasheet/2/949/Winbond_W25Q512JV_Datasheet-3240039.pdf) |
+
+
+# Funcționalități Hardware #
