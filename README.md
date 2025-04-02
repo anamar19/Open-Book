@@ -91,3 +91,18 @@
 | IO21 | Control Boot/Reset | Butoane de reset și boot |
 | 3V3(IO2) | - | Furnizează tensiunea de 3.3V pentru componente |
 | GND | - | Referință pentru circuit |
+
+# 5. Comentarii #
+## 5.1. Design log și Randări PCB ##
+Randări:
+- există randări 3D ale PCB-ULUI care arată poziționarea corectă a componentelor pricipale: ESP32-C6, conectorul USB, senzorii
+- carcasa este proiectată ăn Fusion 360
+- bateria este proiectată, de asemenea, în Fusion 360
+-  display-ul este luat din [link](https://grabcad.com/library/7-5in-e-ink-display-assortment-1) conform datasheet-ului
+
+## 5.2. Așezarea Componentelor în Carcasă ##
+- Conectorii Qwiic/ Stemma QT  sunt plasați la marfinea plăcii pentru a facilita atașarea rapidă a altor senzori
+- Bateria Li-Po e plasată direct lângă PCB pentru a economisi spațiu
+- Microcontrolerul ESP32 e poziționat la marginea PCB-ului pentru a reduce interferențele la antenă, iar din această cauză a fost tăiat și planul de masă li placa PCB în jurul antenei
+
+## 5.3. Decizii luate ##
