@@ -17,7 +17,7 @@ Bill of Materials (BOM)
 | BUTTON | KMR221GULCLFS | [LINK](https://ro.mouser.com/ProductDetail/CK/KMR221GULCLFS?qs=u2NJ%252B70r0goBXaNk7IrU0Q%3D%3D) | [DATASHEET](https://www.ckswitches.com/media/1479/kmr2.pdf )|
 | IC5 | BD5229G-TR | [LINK](https://ro.mouser.com/ProductDetail/ROHM-Semiconductor/BD5229G-TR?qs=4kLU8WoGk0vvnhrrYwdszw%3D%3D)  | [DATASHEET](https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/voltage_detector/bd52xxg-e.pdf) |
 | MCP | MCP73831T-2ACI/OT | [LINK](https://ro.mouser.com/ProductDetail/Microchip-Technology/MCP73831T-2ACI-OT?qs=yUQqVecv4qvbBQBGbHx0Mw%3D%3D)) | [DATASHEET](https://ro.mouser.com/datasheet/2/268/MCP73831_Family_Data_Sheet_DS20001984H-3441711.pdf)|
-| Q3 | SI1308EDL-T1-GE3 | [LINK(https://componentsearchengine.com/prices/Si1308EDL-T1-GE3?manufacturer=Vishay) | [DATASHEET](https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-GE3.pdf) |
+| Q3 | SI1308EDL-T1-GE3 | [LINK](https://componentsearchengine.com/prices/Si1308EDL-T1-GE3?manufacturer=Vishay) | [DATASHEET](https://componentsearchengine.com/Datasheets/1/SI1308EDL-T1-GE3.pdf) |
 | SENSOR2 | BME680 | [LINK](https://ro.mouser.com/ProductDetail/Bosch-Sensortec/BME680?qs=v271MhAjFHjo0yA%2FC4OnDQ%3D%3D)  | [DATASHEET](https://ro.mouser.com/datasheet/2/783/BST_BME680_DS001-1509608.pdf) |
 | SJ1 | CJS-1201B | [LINK](https://ro.mouser.com/ProductDetail/Nidec-Components/CJS-1201B?qs=XeJtXLiO41SSSa2Z7HG9Iw%3D%3D)  | [DATASHEET](https://ro.mouser.com/datasheet/2/972/cjs-1827353.pdf) |
 | L1 |  LQW18ANR18J00D| [LINK](https://ro.mouser.com/ProductDetail/Murata-Electronics/LQW18ANR18J00D?qs=up2IPS6mPfZTlRcpK55RLw%3D%3D)  | [DATASHEET](https://ro.mouser.com/datasheet/2/281/JELF243A_0024-1380895.pdf) |
