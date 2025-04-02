@@ -75,3 +75,16 @@
 - DS3231SN: consum de cca 150uA cu backup la baterie
 
   Bateria Li-Po poate menține sistemul destul de mult timp, de ordinul zilelor chiar, în funcție de capacitate și de cât de des se folosesc comunicațiile Wi-Fi/Bluetooth.
+
+# 4. Pinii ESP32-C6 #
+| Pin | Componentă | Motiv |
+| MOSI(IO6) | SPI MOSI către NOR Flash,SD Card și E-Paper | Transfer date către periferice SPI |
+| MISO(IO7) | SPI MISO din NOR Flash,SD Card și E-Paper | Primire date către periferice SPI |
+| SDA(IO14) | I2C SDA către BME688 și DS3231SN | Linia de date pentru I2C|
+| SCL(IO15) | I2C SCL către BME688 și DS3231SN | Semnal de clock I2C |
+| SCK(IO8) | SPI Clock | Semnal de clock SPI |
+| CS1(IO9) |  Chip Select NOR Flash | Control dedicat pentru NOR Flash |
+| CS2(IO10) |  Chip Select E-Paper Display | Control dedicat pentru Display |
+| CS3(IO11) | Chip Select SD Card |  Control dedicat pentru SD Card |
+| IO16,IO17 | UART,TX,RX(debug) | Debug serial și programare |
+| IO21 | Control Boot/Reset | Butoane de reset și boot |
