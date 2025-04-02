@@ -1,5 +1,8 @@
-# Open-Book
-Bill of Materials (BOM)
+#1. Block Diagram #
+
+
+
+#2. Bill of Materials (BOM) #
 | Ref | Component | Link | Datasheet |
 |-----|-----------|------|-----------|
 | J2 | USB4110-GF-A | [LINK](https://ro.mouser.com/ProductDetail/GCT/USB4110-GF-A?qs=KUoIvG%2F9IlYiZvIXQjyJeA%3D%3D) | [DATASHEET](https://ro.mouser.com/datasheet/2/837/GCT_USB4110_Product_Drawing___20k_cycles-3455479.pdf) |
