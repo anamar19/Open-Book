@@ -61,8 +61,17 @@
 ### External NORFlash64MB ###
 - memorie secundară pentru stocarea datelor.
 
-## 3.2 Interfețe ##
+## 3.2. Specificații de comunicație ##
 - SPI este folosit pentru NOR Flash, cardul SD și dispaly-ul E-Paper
 - I2C este utilizat pentru senzorul BME688 și modulul DS3231SN
 - UART este folosit pentru debugging
 - Wi-Fi & Bluetooth LE sunt date de ESP32-C6 pentru conectivitate wireless.
+
+## 3.3. Calcule de consum de energie ##
+- ESP32-C6: consum în mod activ-aprox 80-240mA și în mod sleep-cam 1mA
+- NOR Flash: consum la citire/scriere-5-15mA, iar în repaus-mai puțin de 10uA
+- BM3688: consum în mod activ de 3.1mA, iar în mod sleep aprox 2.1uA
+- LDO: eficiența depinde de diferența de tensiune (aprox 3.3V) și curentul total
+- DS3231SN: consum de cca 150uA cu backup la baterie
+
+  Bateria Li-Po poate menține sistemul destul de mult timp, de ordinul zilelor chiar, în funcție de capacitate și de cât de des se folosesc comunicațiile Wi-Fi/Bluetooth.
