@@ -12,9 +12,9 @@ Bill of Materials (BOM)
 | C3 | F910J107MBAAJ6 | https://eu.mouser.com/ProductDetail/KYOCERA-AVX/F910J107MBAAJ6?qs=PqoDHHvF649LraCA%2FjeGXg%3D%3D | https://eu.mouser.com/datasheet/2/40/F91_AJ6-3162641.pdf |
 | IC1 | BD5229G-TR | https://ro.mouser.com/ProductDetail/ROHM-Semiconductor/BD5229G-TR?qs=4kLU8WoGk0vvnhrrYwdszw%3D%3D&_gl=1*14qx4c6*_ga*NDQxMDcxNDk3LjE3NDI4NDIxODY.*_ga_15W4STQT4T*MTc0MzQ1MzQ2Ny4xMy4xLjE3NDM0NTU3MDcuNDIuMC4w | https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/voltage_detector/bd52xxg-e.pdf |
 | J4 | 112A-TAAR-R03 | https://store.comet.srl.ro/Catalogue/Product/43497/ | https://www.attend.com.tw/data/download/file/112A-TAAR-R03.rar |
-| U2 | ESP32-C6-WROOM-1-N8 | [Mouser](https://www.mouser.com/) / [Comet](https://www.comet.ro/) | [Datasheet](https://www.onsemi.com/pub/Collateral/MBR0530T1-D.PDF) |
-| U4 | MAX17048G+T10 | [Mouser](https://www.mouser.com/) / [Comet](https://www.comet.ro/) | [Datasheet](https://www.onsemi.com/pub/Collateral/MBR0530T1-D.PDF) |
-| BUTTON | 112A-TAAR-R03_ATTEND | [Mouser](https://www.mouser.com/) / [Comet](https://www.comet.ro/) | [Datasheet](https://www.onsemi.com/pub/Collateral/MBR0530T1-D.PDF) |
+| U2 | ESP32-C6-WROOM-1-N8 | https://componentsearchengine.com/prices/ESP32-C6-WROOM-1-N8?manufacturer=Espressif%20Systems | https://www.espressif.com/sites/default/files/documentation/esp32-c6-wroom-1_wroom-1u_datasheet_en.pdf |
+| U4 | MAX17048G+T10 | https://ro.mouser.com/ProductDetail/Analog-Devices-Maxim-Integrated/MAX17048G%2bT10?qs=D7PJwyCwLAoGnnn8jEPRBQ%3D%3D| https://ro.mouser.com/datasheet/2/609/MAX17048_MAX17049-3469099.pdf |
+| BUTTON | KMR221GULCLFS | [LINK](https://ro.mouser.com/ProductDetail/CK/KMR221GULCLFS?qs=u2NJ%252B70r0goBXaNk7IrU0Q%3D%3D) | [LINK](https://www.ckswitches.com/media/1479/kmr2.pdf )|
 | IC5 | BD5229G-TR | [Mouser](https://www.mouser.com/) / [Comet](https://www.comet.ro/) | [Datasheet](https://www.onsemi.com/pub/Collateral/MBR0530T1-D.PDF) |
 | MCP | MCP73831 | [Mouser](https://www.mouser.com/) / [Comet](https://www.comet.ro/) | [Datasheet](https://www.onsemi.com/pub/Collateral/MBR0530T1-D.PDF) |
 | Q3 | SI1308EDL-T1-GE3 | [Mouser](https://www.mouser.com/) / [Comet](https://www.comet.ro/) | [Datasheet](https://www.onsemi.com/pub/Collateral/MBR0530T1-D.PDF) |
