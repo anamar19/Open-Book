@@ -78,6 +78,7 @@
 
 # 4. Pinii ESP32-C6 #
 | Pin | Componentă | Motiv |
+|-----|------------|-------|
 | MOSI(IO6) | SPI MOSI către NOR Flash,SD Card și E-Paper | Transfer date către periferice SPI |
 | MISO(IO7) | SPI MISO din NOR Flash,SD Card și E-Paper | Primire date către periferice SPI |
 | SDA(IO14) | I2C SDA către BME688 și DS3231SN | Linia de date pentru I2C|
@@ -88,3 +89,5 @@
 | CS3(IO11) | Chip Select SD Card |  Control dedicat pentru SD Card |
 | IO16,IO17 | UART,TX,RX(debug) | Debug serial și programare |
 | IO21 | Control Boot/Reset | Butoane de reset și boot |
+| 3V3(IO2) | - | Furnizează tensiunea de 3.3V pentru componente |
+| GND | - | Referință pentru circuit |
