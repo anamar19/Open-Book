@@ -6,8 +6,7 @@ Bill of Materials (BOM)
 | D1 | USBLC6-2SC6Y |[LINK](https://ro.mouser.com/ProductDetail/STMicroelectronics/USBLC6-2SC6Y?qs=gNDSiZmRJS%2FOgDexvXkdow%3D%3D) | [DATASHEET](https://ro.mouser.com/datasheet/2/389/usblc6_2sc6y-1852505.pdf) |
 | PFMF.050.2 | PFMF.050.2 | [LINK](https://ro.mouser.com/ProductDetail/Schurter/PFMF.010.2?qs=1auRipcfynCnJdD0clLSNw%3D%3D) | [DATASHEET](https://ro.mouser.com/datasheet/2/358/typ_PFMF-1275918.pdf) |
 | C | C0402 | [LINK](https://ro.mouser.com/ProductDetail/KEMET/C0402C475K8PACTU?qs=ulEaXIWI0c9ebKRT3r3htg%3D%3D) | [DATASHEET](https://ro.mouser.com/datasheet/2/447/KEM_C1006_X5R_SMD-3316465.pdf) |
-| R | CR0402 | [LINK](https://ro.mouser.com/ProductDetail/Bourns/CR0402-FX-78R7GLF?qs=ePR1ZvdkOKLVu%2FTT5yAHeA%3D%3D) | 
- [DATASHEET](https://ro.mouser.com/datasheet/2/54/cr-1858361.pdf) 
+| R | CR0402 | [LINK](https://ro.mouser.com/ProductDetail/Bourns/CR0402-FX-78R7GLF?qs=ePR1ZvdkOKLVu%2FTT5yAHeA%3D%3D) |[DATASHEET](https://ro.mouser.com/datasheet/2/54/cr-1858361.pdf) |
 | Q1 | DMG2305UX-7 | [LINK](https://ro.mouser.com/ProductDetail/Diodes-Incorporated/DMG2305UX-7?qs=L1DZKBg7t5F%2FNBHrjfxC%252Bg%3D%3D) | [DATASHEET](https://www.diodes.com/assets/Datasheets/DMG2305UX.pdf) |
 | D2 | SD0805S020S1R0 | [LINK](https://eu.mouser.com/ProductDetail/KYOCERA-AVX/SD0805S020S1R0?qs=jCA%252BPfw4LHbpkAoSnwrdjw%3D%3D) | [DATASHEET](https://eu.mouser.com/datasheet/2/40/schottky-3165252.pdf) |
 | C3 | F910J107MBAAJ6 | [LINK](https://eu.mouser.com/ProductDetail/KYOCERA-AVX/F910J107MBAAJ6?qs=PqoDHHvF649LraCA%2FjeGXg%3D%3D) | [DATASHEET](https://eu.mouser.com/datasheet/2/40/F91_AJ6-3162641.pdf) |
