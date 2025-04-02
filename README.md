@@ -47,19 +47,19 @@
 ### SD Card ###
 -permite stocarea locală a fișierelor de configurare și a datelor.
 ### E-Paper Drive Circuit & Header ###
--generează semnale pentru controlul ecranului E-Paper și permite selectarea tipului de dispaly.
+- generează semnale pentru controlul ecranului E-Paper și permite selectarea tipului de dispaly.
 ### Li-Po Battery Charging Controller ###
--încarcă bateria Li-Po și gestionează curentul de încărcare.
+- încarcă bateria Li-Po și gestionează curentul de încărcare.
 ### Environmental Sensor  ###
--măsoară presiunea, temperatura, umiditatea și calitatea aerului.
+- măsoară presiunea, temperatura, umiditatea și calitatea aerului.
 ### Voltage Supervisor + Reset & Boot / IO Button ###
--monitorizează tensiunea de alimentare și asigură resetarea sistemului.
+- monitorizează tensiunea de alimentare și asigură resetarea sistemului.
 ### Li-Po Battery ###
--sursă de alimentare de rezervă, care permite funcționarea sistemului fără USB.
+- sursă de alimentare de rezervă, care permite funcționarea sistemului fără USB.
 ### RTC Module DS3231SN ###
--asigur- funcționarea de ceas în timp real.
+- asigură funcționarea de ceas în timp real.
 ### External NORFlash64MB ###
 - memorie secundară pentru stocarea datelor.
 
-  ## 3.2 Interfețe ##
-  - ### SPI ### este folosit pentru NOR Flash, cardul SD și dispaly-ul E-Paper
+## 3.2 Interfețe ##
+- ** SPI ** este folosit pentru NOR Flash, cardul SD și dispaly-ul E-Paper
