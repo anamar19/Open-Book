@@ -96,7 +96,7 @@
 ## 5.1. Design log și Randări PCB ##
 Randări:
 - există randări 3D ale PCB-ULUI care arată poziționarea corectă a componentelor pricipale: ESP32-C6, conectorul USB, senzorii
-- carcasa este proiectată ăn Fusion 360
+- carcasa este proiectată în Fusion 360
 - bateria este proiectată, de asemenea, în Fusion 360
 -  display-ul este luat din [link](https://grabcad.com/library/7-5in-e-ink-display-assortment-1) conform datasheet-ului
 
@@ -106,3 +106,4 @@ Randări:
 - Microcontrolerul ESP32 e poziționat la marginea PCB-ului pentru a reduce interferențele la antenă, iar din această cauză a fost tăiat și planul de masă li placa PCB în jurul antenei
 
 ## 5.3. Decizii luate ##
+Am acceptat cele 5 erori de overlap pentru că traseele de putere, fiind rutate cu 0.3mm, se intersecteaza pe padul B9:VBUS și A4:VUSB, acestea fiind foarte apropiate una de alta. De asemenea am acceptat cele 2 erori Copper Clearance de deoarece VBUS și VUSB necesită o conexiune robustă, iar distanța minimă a fost redusă intenționat pentru a minimiza rezistența electrică. Mai am 2 erori de Board Outline Clearance 
