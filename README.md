@@ -106,4 +106,4 @@ Randări:
 - Microcontrolerul ESP32 e poziționat la marginea PCB-ului pentru a reduce interferențele la antenă, iar din această cauză a fost tăiat și planul de masă li placa PCB în jurul antenei
 
 ## 5.3. Decizii luate ##
-Am acceptat cele 7 erori de overlap pentru că traseele de putere, fiind rutate cu 0.3mm, se intersecteaza pe padul B9:VBUS și A4:VUSB, acestea fiind foarte apropiate una de alta.  Mai am 2 erori de Board Outline Clearance pentru ca așa este configurată componenta USB4110-GF-A, adica din cauza dimensiunii gaurilor.
+Am acceptat cele 7 erori de overlap pentru că traseele de putere, fiind rutate cu 0.3mm, se intersecteaza pe padul B9:VBUS și A4:VUSB, acestea fiind foarte apropiate una de alta.  Mai am 2 erori de Board Outline Clearance la aceeasi componenta, pe care le-am acceptat pentru ca așa este configurată componenta USB4110-GF-A, adica din cauza dimensiunii gaurilor.
